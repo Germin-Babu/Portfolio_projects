@@ -30,11 +30,14 @@ This project demonstrates skills in Pandas, NumPy, Seaborn, Matplotlib, and Pyth
 📂 Project Structure
 
 movie-eda-project/
+
 │
 ├── notebooks/
-│   └── movie_eda.ipynb                  
+
+│   └── movie_eda.ipynb   
 │
 ├── images/
+
 │   └──      
 │
 └── README.md
