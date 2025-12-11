@@ -84,29 +84,37 @@ Votes,
 
 Horizontal bar chart of top 10 countries by number of movies produced.
 
+[View Top 10 Countries Production](https://your-link.com/top-10-countries)
+
 2️⃣ Top 10 Movies by Score
 
 Scatter plot showing highest-rated movies.
 
-3️⃣ Companies with Highest Total Gross Earnings
+[View Top 10 Movies by Score](https://your-link.com/top-10-movies)
+
+3️⃣ Top 10 Companies with Highest Total Gross Earnings
 
 Bar chart ranking studios by cumulative gross revenue.
 
-4️⃣ Average Gross Revenue per Company
+[View Gross Earnings by Companies](https://your-link.com/gross-earnings)
 
-Identifies top-performing production houses by mean revenue.
-
-5️⃣ Top Directors by Number of Movies
+4️⃣  Top Directors by Number of Movies
 
 Bar chart of the most active directors in the dataset.
 
-6️⃣ Average Gross Revenue per Director
+[View Top 10 Directors](https://your-link.com/top-10-directors)
+
+5️⃣ Average Gross Revenue per Director
 
 Plot showing which directors generate the highest returns.
 
-7️⃣ Genre Revenue Analysis
+[View Avg Gross Revenue of Directors](https://your-link.com/avg-gross-directors)
+
+6️⃣ Genre Revenue Analysis
 
 Genres ranked by total gross earnings, visualized with a bar plot.
+
+[View Gross Revenue by Genre](https://your-link.com/revenue-genre)
 
 ## 🔍 Correlation Analysis
 
@@ -117,6 +125,8 @@ Shows strong positive correlation between:
 Budget ↔ Gross revenue (0.74)
 
 Votes ↔ Gross revenue (0.61)
+
+[View Correlation Heatmap](https://your-link.com/correlation-heatmap)
 
 ✔ Converted categorical features into numeric codes
 
@@ -130,9 +140,14 @@ Identifying strongest relationships.
 
 Budget vs Gross Earnings
 
+[View Budget vs Gross Revenue](https://your-link.com/budget-gross)
+
 Votes vs Gross Earnings
 
+[View Votes vs Gross Revenue](https://your-link.com/votes-gross)
+
 These reveal strong linear relationships, indicating that higher budgets and more votes are strongly associated with higher box office performance.
+
 
 ## ⭐ Key Insights
 
