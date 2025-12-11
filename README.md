@@ -27,6 +27,19 @@ The analysis includes:
 This project demonstrates skills in Pandas, NumPy, Seaborn, Matplotlib, and Python-based storytelling with data.
 
 
+📂 Project Structure
+
+movie-eda-project/
+│
+├── notebooks/
+│   └── movie_eda.ipynb                  
+│
+├── images/
+│   └──      
+│
+└── README.md
+
+
 🗂️ Dataset Information
 
 Source: Kaggle
