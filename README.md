@@ -27,23 +27,23 @@ The analysis includes:
 This project demonstrates skills in Pandas, NumPy, Seaborn, Matplotlib, and Python-based storytelling with data.
 
 
-📂 Project Structure
+## 📂 Project Structure
 
+```
 movie-eda-project/
-
 │
 ├── notebooks/
-
-│   └── movie_eda.ipynb   
+│   └── movie_eda.ipynb
 │
 ├── images/
-
-│   └──      
+│   └── (your charts here)
 │
 └── README.md
+```
 
 
-🗂️ Dataset Information
+
+## 🗂️ Dataset Information
 
 Source: Kaggle
 Original dataset is not included due to licensing restrictions
@@ -62,7 +62,7 @@ Score,
 Votes,
 
 
-🧹 Data Cleaning & Preprocessing
+## 🧹 Data Cleaning & Preprocessing
 
 ✔ Checked column info and data types
 
@@ -78,7 +78,7 @@ Votes,
 
 ✔ Sorted dataset by gross revenue (descending)
 
-📊 Exploratory Data Analysis
+## 📊 Exploratory Data Analysis
 
 1️⃣ Top Movie-Producing Countries
 
@@ -108,7 +108,7 @@ Plot showing which directors generate the highest returns.
 
 Genres ranked by total gross earnings, visualized with a bar plot.
 
-🔍 Correlation Analysis
+## 🔍 Correlation Analysis
 
 ✔ Numeric correlation heatmap
 
@@ -134,7 +134,7 @@ Votes vs Gross Earnings
 
 These reveal strong linear relationships, indicating that higher budgets and more votes are strongly associated with higher box office performance.
 
-⭐ Key Insights
+## ⭐ Key Insights
 
 Based on your real analysis:
 
@@ -154,7 +154,7 @@ Correlation: 0.61
 
 🎯 6. The dataset required substantial cleaning, especially removing missing values and correcting year inconsistencies.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
